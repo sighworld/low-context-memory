@@ -1,0 +1,4 @@
+interface:
+  display_name: "Low Context Memory"
+  short_description: "Persist project state and compress context with daily logs"
+  default_prompt: "Initialize and maintain low-context memory files for this project, then keep progress updates concise and checkpointed."
