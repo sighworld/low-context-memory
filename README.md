@@ -1,5 +1,7 @@
 # Low Context Memory
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 A lightweight Codex skill that reduces context-window pressure by storing durable project state in files instead of long chat history.
 
 This skill scaffolds a compact memory structure (`conductor/` + daily logs), provides concise update templates, and encourages checkpoint-based handoff so work can continue smoothly across sessions.
